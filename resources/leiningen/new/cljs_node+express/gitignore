@@ -1,0 +1,11 @@
+app.js
+pom.xml
+*jar
+/lib/
+/classes/
+/node_modules/
+/out/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
